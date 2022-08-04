@@ -1,6 +1,6 @@
 - 👋 Hola, soy JoseAn Rodrigo Pendás. Trabajo como facultativo especialista en Medicina Preventiva en el H. U. Vall d'Hebron.
 - 👀 Uso GitHub para almacenar las líneas de código rudimentario que necesito para mi trabajo. No encontraréis ninguna genialidad aquí.
-- 💞️ Mis programas favoritos son **Stata** y **EpiInfo** (aunque este último ya no lo uso tanto), pero también uso **R**, qué remedio.
+- 💞️ Mis programas estadísticos favoritos son **Stata** y **EpiInfo** (aunque este último ya no lo uso tanto), pero también uso **R**, qué remedio.
 - 📫 josean.rodrigo@vallhebron.cat
 
 <!---
